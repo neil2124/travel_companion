@@ -1,6 +1,6 @@
 # Google Map Companion
 
-![Travel Companion App](https://github.com/neil2124/Travel-Companion/blob/main/assets/demo_image.png)
+![Travel Companion App](https://github.com/neil2124/travel_companion/blob/main/assets/demo_image.png)
 
 
 -Built a Travel Companion App with Google Maps API, Geolocation, and advanced practices in React/Next.js and TypeScript, creating a smooth user experience and optimized data handling. Acquired expertise in setting up and managing APIs using Google Cloud Platform (GCP).
